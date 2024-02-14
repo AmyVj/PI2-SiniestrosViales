@@ -66,7 +66,9 @@ Se establecieron tres objetivos para reducir la cantidad de víctimas muertes en
 
   Su fórmula es:
 
-    $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
+$\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
+
+
 
 2. **Reducción de accidentes mortales de motociclistas:**
     - En el último año, en CABA, hubo menos accidentes mortales de motociclistas que en el año anterior.
