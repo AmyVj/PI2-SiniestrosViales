@@ -80,7 +80,8 @@ $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicid
     - La tasa de muertes en las avenidas es el número de muertes fatales en accidentes de tránsito en avenidas por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso anual.
 
 La fórmula para medir la evolución de los accidentes mortales con víctimas en moto es:
-    $\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}·100$
+
+$\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}·100$
 
  Donde:
     - $\text{Víctimas moto año anterior}$: Número de accidentes mortales con víctimas en moto en el año anterior
