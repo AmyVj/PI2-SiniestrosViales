@@ -64,6 +64,10 @@ Se establecieron tres objetivos para reducir la cantidad de víctimas muertes en
     - Se calculó la población total en 2021 a partir de los censos poblacionales del año 2010 y 2022.
     - En este caso, en 2021, la tasa de homicidios en siniestros viales fue de 1.77, lo que significa que, durante los primeros seis meses del año 2021, hubo aproximadamente 1.77 homicidios en accidentes de tránsito por cada 100,000 habitantes. Ahora, el objetivo es reducir esta tasa en un 10% para el próximo semestre de 2021, que es de $1.60. Cuando se calcula el KPI para este período, se descubre que la tasa de homicidios en siniestros viales fue de 1.35, lo que significa que en 2021 se cumplirá con el objetivo propuesto.
 
+  Su fórmula es:
+
+    $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
+
 2. **Reducción de accidentes mortales de motociclistas:**
     - En el último año, en CABA, hubo menos accidentes mortales de motociclistas que en el año anterior.
     - Se considera el año actual del 2021 y el año actual del 2020.
@@ -72,7 +76,20 @@ Se establecieron tres objetivos para reducir la cantidad de víctimas muertes en
 3. **Reducción de la tasa de homicidios en las avenidas:**
     - En el último año, en CABA, hubo menos homicidios en las calles que en el año anterior.
     - La tasa de muertes en las avenidas es el número de muertes fatales en accidentes de tránsito en avenidas por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico, en este caso anual.
-    - En este caso, se calculó la cantidad de personas muertas en las calles en 2020, que fue de 1.68. Se encontró el objetivo del año siguiente, que fue reducir el 10% de los homicidios respecto al año anterior. Al calcular la tasa de homicidios en las avenidas para el año 2021, la misma resultó de 1.97, lo que significa que se superó el objetivo, aumentando la tasa de mocidios en avenidas respecto al año anterior.
+
+La fórmula para medir la evolución de los accidentes mortales con víctimas en moto es:
+    $\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}·100$
+
+ Donde:
+    - $\text{Víctimas moto año anterior}$: Número de accidentes mortales con víctimas en moto en el año anterior
+    - $\text{Víctimas moto año actual}$: Número de accidentes mortales con víctimas en moto en el año actual 
+      
+- En este caso, se calculó la cantidad de personas muertas en las calles en 2020, que fue de 1.68. Se encontró el objetivo del año siguiente, que fue reducir el 10% de los homicidios respecto al año anterior. Al calcular la tasa de homicidios en las avenidas para el año 2021, la misma resultó de 1.97, lo que significa que se superó el objetivo, aumentando la tasa de mocidios en avenidas respecto al año anterior.
+
+  En la siguiente imagen se aprecian los rendimientos de los tres KPI propuestos.
+
+![KPI](![image](https://github.com/AmyVj/PI2-SiniestrosViales/assets/140218086/fd3e8263-0fc1-4ea6-ad9b-fafe094182a5)
+)
 
 ## Conclusión y recomendación
 
